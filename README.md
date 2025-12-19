@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![StudyGenius](public/images/logo.png)
 
 **A modern, intelligent learning companion designed to help students master complex subjects effortlessly.**
 
